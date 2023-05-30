@@ -29,3 +29,7 @@
 войдут: Лошади, верблюды и ослы).
 
 ![Снимок экрана 2023-05-28 153104](https://github.com/Silbye/Specialization-attestation/assets/109812796/9ca03f40-633c-4668-bc62-c1a1080e9bb3)
+
+[Задания 7-12](https://github.com/Silbye/Specialization-attestation/blob/main/attestation.sql)
+
+[Задания 13-15](https://github.com/Silbye/Specialization-attestation/tree/main/src)
